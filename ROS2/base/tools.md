@@ -48,7 +48,7 @@
 
 3. 基本用法
 
-   ![2023-12-17_22-07](/home/nsj/Desktop/Ros_Learning/ROS2/img/2023-12-17_22-07.png)
+   ![2023-12-17_22-07]([/home/nsj/Desktop/Ros_Learning/ROS2/img/2023-12-17_22-07.png](https://github.com/nsj12/ROS-LEARNING/issues/1#issue-2045299201))
 
    - 首先打开turtlesim
 
