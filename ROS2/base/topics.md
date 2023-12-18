@@ -8,7 +8,7 @@
    rqt_graph
    ```
 
-   ![topic1](/home/nsj/Desktop/Ros_Learning/ROS2/img/topic1.png)
+   ![topic1](https://github.com/nsj12/ROS-LEARNING/blob/main/ROS2/img/topic1.png)
 
 ​		描绘了 `/turtlesim` 节点和 `/teleop_turtle` 节点如何通过主题相互通信。 `/teleop_turtle` 节点正在将数据（您输入的用于移动乌龟的击键）发布到 `/turtle1/cmd_vel` 主题，并且 `/turtlesim` 节点已订阅该主题以接收数据
 
